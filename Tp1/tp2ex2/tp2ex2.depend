@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574907351 source:/home/iheb/Documents/tp2ex2/main.cpp
+	<iostream>
+	"Fraction.h"
+
+1574907052 /home/iheb/Documents/tp2ex2/include/Fraction.h
+	<iostream>
+
+1574907375 source:/home/iheb/Documents/tp2ex2/src/Fraction.cpp
+	"Fraction.h"
+	<iostream>
+

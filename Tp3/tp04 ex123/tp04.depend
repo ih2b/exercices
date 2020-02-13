@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1575278511 source:/home/iheb/Documents/tp04/src/Boursier.cpp
+	"Boursier.h"
+	<string>
+	"Personne.h"
+	"Etudiant.h"
+
+1575278519 /home/iheb/Documents/tp04/include/Boursier.h
+	<Etudiant.h>
+
+1575278412 /home/iheb/Documents/tp04/include/Etudiant.h
+	<Personne.h>
+
+1575285146 /home/iheb/Documents/tp04/include/Personne.h
+	<string>
+	<iostream>
+
+1575278400 source:/home/iheb/Documents/tp04/src/Etudiant.cpp
+	"Etudiant.h"
+	"Personne.h"
+	<string>
+
+1575284861 source:/home/iheb/Documents/tp04/src/Personne.cpp
+	"Personne.h"
+	<iostream>
+
+1575284657 source:/home/iheb/Documents/tp04/main.cpp
+	<iostream>
+	"Personne.h"
+	"Etudiant.h"
+	"Boursier.h"
+
+1575284657 source:/home/iheb/Documents/tp04 (copy)/main.cpp
+	<iostream>
+	"Personne.h"
+	"Etudiant.h"
+	"Boursier.h"
+
+1575292331 /home/iheb/Documents/tp04 (copy)/include/Personne.h
+	<string>
+	<iostream>
+
+1575292426 /home/iheb/Documents/tp04 (copy)/include/Etudiant.h
+	<Personne.h>
+
+1575292435 /home/iheb/Documents/tp04 (copy)/include/Boursier.h
+	<Etudiant.h>
+
+1575278511 source:/home/iheb/Documents/tp04 (copy)/src/Boursier.cpp
+	"Boursier.h"
+	<string>
+	"Personne.h"
+	"Etudiant.h"
+
+1575278400 source:/home/iheb/Documents/tp04 (copy)/src/Etudiant.cpp
+	"Etudiant.h"
+	"Personne.h"
+	<string>
+
+1575284861 source:/home/iheb/Documents/tp04 (copy)/src/Personne.cpp
+	"Personne.h"
+	<iostream>
+

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1575221362 source:/home/iheb/Documents/Tp5ex1/main.cpp
+	<iostream>
+	"Point.h"
+	"ObjetGraphique.h"
+	"Cercle.h"
+	"Ligne.h"
+	"Triangle.h"
+
+1575205177 /home/iheb/Documents/Tp5ex1/include/Point.h
+
+1575220944 source:/home/iheb/Documents/Tp5ex1/src/Point.cpp
+	"Point.h"
+
+1575206639 source:/home/iheb/Documents/Tp5ex1/src/ObjetGraphique.cpp
+	"ObjetGraphique.h"
+	<iostream>
+
+1575206205 /home/iheb/Documents/Tp5ex1/include/ObjetGraphique.h
+	"Point.h"
+
+1575221375 source:/home/iheb/Documents/Tp5ex1/src/Cercle.cpp
+	"Cercle.h"
+	<iostream>
+
+1575208504 /home/iheb/Documents/Tp5ex1/include/Cercle.h
+	"Point.h"
+	"ObjetGraphique.h"
+
+1575220820 source:/home/iheb/Documents/Tp5ex1/src/Ligne.cpp
+	"Ligne.h"
+	<iostream>
+
+1575210534 /home/iheb/Documents/Tp5ex1/include/Ligne.h
+	"ObjetGraphique.h"
+
+1575220832 source:/home/iheb/Documents/Tp5ex1/src/Triangle.cpp
+	"Triangle.h"
+	"Ligne.h"
+	<iostream>
+
+1575217686 /home/iheb/Documents/Tp5ex1/include/Triangle.h
+	"Point.h"
+	"Ligne.h"
+

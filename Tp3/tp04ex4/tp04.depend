@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1575418158 source:/home/iheb/Documents/tp04/src/Boursier.cpp
+	"Boursier.h"
+	<string>
+	"Personne.h"
+	"Etudiant.h"
+
+1575418056 /home/iheb/Documents/tp04/include/Boursier.h
+	<Etudiant.h>
+
+1575417968 /home/iheb/Documents/tp04/include/Etudiant.h
+	<Personne.h>
+
+1575418707 /home/iheb/Documents/tp04/include/Personne.h
+	<string>
+	<iostream>
+
+1575418023 source:/home/iheb/Documents/tp04/src/Etudiant.cpp
+	"Etudiant.h"
+	"Personne.h"
+	<string>
+
+1575418684 source:/home/iheb/Documents/tp04/src/Personne.cpp
+	"Personne.h"
+	<iostream>
+
+1575418769 source:/home/iheb/Documents/tp04/main.cpp
+	<iostream>
+	"Personne.h"
+	"Etudiant.h"
+	"Boursier.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1575161733 source:/home/iheb/Documents/tp3exercice1/main.cpp
+	<iostream>
+	"Notes.h"
+	"Eleve.h"
+
+1575133024 /home/iheb/Documents/tp3exercice1/include/Notes.h
+
+1575134373 source:/home/iheb/Documents/tp3exercice1/src/Notes.cpp
+	"Notes.h"
+
+1575161224 /home/iheb/Documents/tp3exercice1/include/Eleve.h
+	<istream>
+	<iostream>
+	<string>
+	"Notes.h"
+
+1575161464 source:/home/iheb/Documents/tp3exercice1/src/Eleve.cpp
+	"Eleve.h"
+
